@@ -1,0 +1,5 @@
+- 👋 Hi, My name is Elaman
+- 🏳️ I'm from Kazakhstan
+- 👀 I’m interested in IT
+- 🌱 I'm currently studying at university
+- 📫 How to reach me: @Double_power in telegram, @smglv_rick in instagram.
