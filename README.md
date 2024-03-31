@@ -7,8 +7,7 @@
 </div>
 
 <div align="center">
-  <img style="height: 160px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickDred&langs_count=5&theme=tokyonight"/>
-  <img style="height: 160px;" src="https://github-readme-stats.vercel.app/api/?username=RickDred&count_private=true&theme=tokyonight&showicons=true"/>
+  <img style="height: 160px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickDred&layout=donut&theme=nord"/>
  <img style="height: 160px;" src="https://leetcard.jacoblin.cool/Rick_Dred?theme=dark&font=Sarala"/>
 </div>
 
