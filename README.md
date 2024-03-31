@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
- <img src="https://github.com/RickDred/RickDred/blob/main/Github-logo.png" alt="warioddly gitgub header image"/>
+ <img src="https://github.com/RickDred/RickDred/blob/main/GitHub-logo.png" alt="warioddly gitgub header image"/>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&size=26&width=600&lines=Hello+there;)](https://git.io/typing-svg)
 
