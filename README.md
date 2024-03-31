@@ -1,12 +1,10 @@
-<!--
 <div id="header" align="center">
 
- <img src="https://github.com/Tolkynbayeva/Tolkynbayeva/blob/main/header.png" alt="warioddly gitgub header image"/>
+ <img src="https://github.com/RickDred/RickDred/blob/main/Github-logo.png" alt="warioddly gitgub header image"/>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&size=26&width=600&lines=Hi+there+👋,+I+am+Tolganay;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&size=26&width=600&lines=Hello+there;)](https://git.io/typing-svg)
 
 </div>
--->
 
 <div align="center">
   <img style="height: 160px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick_Dred&layout=donut&theme=nord"/>
